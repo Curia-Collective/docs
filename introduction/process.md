@@ -1,3 +1,3 @@
 # Process
 
-Describe procedure stuff
+![](<../.gitbook/assets/Curia (1).jpeg>)

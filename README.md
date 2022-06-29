@@ -1,4 +1,4 @@
-# Curia
+# 🏛 Curia
 
 Curia is a collective of legal professionals from LexDAO providing a resolution layer to blockchain.
 

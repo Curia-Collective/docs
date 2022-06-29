@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Curia](README.md)
+* [🏛 Curia](README.md)
 
 ## Introduction
 
