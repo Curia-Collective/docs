@@ -1,5 +1,5 @@
 ---
-description: '[Coming soon]'
+description: Soon™️
 ---
 
 # Mediation
