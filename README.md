@@ -8,18 +8,28 @@ It fills the gap between tokenized juror services like Kleros and Aragon Court w
 
 ### Let's get started
 
-{% content-ref url="introduction/enter-curia.md" %}
-[enter-curia.md](introduction/enter-curia.md)
-{% endcontent-ref %}
+🏛[Introduction](introduction/enter-curia.md)
 
-{% content-ref url="products/arbitration.md" %}
-[arbitration.md](products/arbitration.md)
-{% endcontent-ref %}
+⚔[Arbitration](products/arbitration.md)
 
-{% content-ref url="products/mediation.md" %}
-[mediation.md](products/mediation.md)
-{% endcontent-ref %}
+🤝[Mediation](products/mediation.md)
 
-{% content-ref url="products/smart-escrow.md" %}
-[smart-escrow.md](products/smart-escrow.md)
-{% endcontent-ref %}
+🔒[Smart Escrow](products/smart-escrow.md)
+
+### Docs & templates
+[Curia Rules](main-docs/rules.md)
+
+[Code of Conduct](main-docs/code-of-conduct.md)
+
+[Scheduling order](main-docs/scheduling-order.md)
+
+[Potential arbitration clauses](main-docs/arbitration-clauses.md)
+
+[Fee schedule](main-docs/fee-schedule.md)
+
+[Award template](main-docs/award-template.md)
+
+
+
+
+
