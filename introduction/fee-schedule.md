@@ -17,6 +17,6 @@ Arbitration fee: Based on the following scale of disputed amounts
 | $1,000,001 - 10,000,000  | $10,000 + 0.25% of the amount above $1m  |
 | $10,000,001 - $100m  | $35,000 + 0.01% of the amount above $10m  |
 | >$100,000,001  | $45,000 + 0.02% of the amount above $100m to a maximum cap of $60,000.00  |
-
-
-
+### Other fees: 
+* Express emergency arbitration fee: $5,000.
+* Highly complex or technical disputes may require retention of third-party experts (i.e. Chainalysis). 
