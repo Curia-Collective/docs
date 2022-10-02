@@ -1,5 +1,7 @@
 # Smart Escrow
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+⚠️WIP⚠️
+
+This section is still under development, but the way our escrow works is pretty straightforward, it’s based on LexLocker, a multi-purpose escrow system that can be used in EVM-compatible chains. It allows parties to designate a receiver account as well as to select the arbiter (ideally, Curia), so that then either party might call the lock function, freezing the assets in the escrow. As mentioned previously, it is suggested that parties use our escrow during the mediation/arbitration process, but this is not the only use case for it. There are multiple uses for escrows, for example, instead of relying on Cobie to serve as the escrow for your bets, you could use our escrow which also allows parties to take advantage of DeFi yield by holding tokens as Bento Box Shares. This means that the opportunity cost of payments being held idle is not lost, as payments increase for the recipient.
+
+A more practical use for our escrow is for escrowed payments, let’s say you want to work for a DAO, but you don’t know who’s behind said DAO, and you fear they might simply rug you upon finishing your work by not paying – escrowed payments fix this. By escrowing payments, the employer deposits the employees' wage in the escrow, and they’ll receive it if they accomplish the tasks agreed upon. This could be done in different ways, but ideally, payments should be done through milestone payments, instead of lump-sum. Another interesting feature is that the escrow could be transferable as an NFT – meaning that the content of the escrow (e.g., the employee’s salary) could be used as collateral for other payments, such as DAO memberships.
