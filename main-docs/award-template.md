@@ -13,7 +13,7 @@ RESPONDENT: 	 	[RESPONDENT]
 				[RESPONDENT ADDRESS]
 
 
-THE CURIA ARBITRATION  PANEL (“Panel”) followed the [Curia Rules] in determining this award.
+THE CURIA ARBITRATION  PANEL (“Panel”) followed the [Curia Dispute Resolution Rules] in determining this award.
 
 THE PANEL makes the following award: 
 
